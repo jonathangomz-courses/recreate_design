@@ -10,10 +10,10 @@ To use the font add this line at the beginning of ypur css file:
 ## Images
 
 Index
-![index](./index.png)
+![index](./images/index.png)
 
 About
-![about](./about.png)
+![about](./images/about.png)
 
 Contact
-![contact](./contact.png)
+![contact](./images/contact.png)
