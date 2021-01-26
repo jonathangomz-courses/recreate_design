@@ -2,10 +2,12 @@
 Recreate the design of the images using HTML and CSS.
 
 ### Font
-To use the font add this line at the beginning of ypur css file:
+To use the same font add this line at the beginning of ypur css file:
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 ```
+
+I use it like: `font-family: 'Alata', sans-serif;`
 
 ## Images
 
